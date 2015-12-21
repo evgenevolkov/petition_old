@@ -1,0 +1,12 @@
+/*
+TODO [Jenya] make subscription date&time field to be autofilled with current time and unchangable
+TODO [Jenya] make petition creation date&time field to be autofilled with current time and unchangable
+TODO [Jenya] make subscriber field in Subscriptions entity to be autofilled with current uster and unchangable
+TODO [Jenya] in petitions make subscribe button that will automatically create
+TODO [Jenya] new subscription with fields as follows:
+TODO [Jenya]  {petition: button pressed petition; subscriber: current user;
+TODO [Jenya]   subscription time: current time}
+TODO [Jenya] make autocheck before new subscription creation if current user
+TODO [Jenya] has already subscribed current petition and show message if so
+TODO [Jenya] Grunt serve opens new window with 404 error
+*/

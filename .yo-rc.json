@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "petition",
+    "packageName": "com.mycompany.myapp",
+    "packageFolder": "com/mycompany/myapp",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "f9bf95ad9a6cbb76a248a0497502d6c73997eea8",
+    "testFrameworks": [
+      "cucumber"
+    ]
+  }
+}
